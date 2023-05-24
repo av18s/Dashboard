@@ -1,0 +1,38 @@
+.canvas{
+    min-width: 50px;
+    padding: 60px;
+    margin: 60px;
+    width: 70%;
+    border: 5px;
+    background-color: #c5d0d18f !important;
+
+
+}
+.button{
+    display: flex;
+    justify-content: center;
+    /* background-color: bisque; */
+}
+.main{
+    background-color: rgb(255, 255, 255);
+    height:100vh;
+    display: flex;
+    justify-content: center;
+}
+.card1{
+    padding: 60px;
+    padding-top: 0%; 
+    border: 5px;
+}
+.card2{
+    padding: 60px;
+     padding-top: 0%;
+    /* padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%; */ 
+   
+    /* margin: 60px; */
+    /* width: 70%; */
+    border: 5px;
+
+}
